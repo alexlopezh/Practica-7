@@ -1,0 +1,85 @@
+*
+{
+margin:0;
+padding:0;	
+	
+}
+body
+{
+background-color:#154360;
+font-family:Segoe UI Light, Calibri;
+font-size=12;
+}
+h1
+{
+font-family:Calibri,Segoe UI Light;
+font-size=16px;
+color:white;	
+}
+table
+{
+width:100%;	
+	
+}
+td{
+	
+	vertical-align:top;
+}
+ul{
+	list-style:none;
+	margin-top:0px;
+	
+}
+ul li
+{
+font-family:Calibri,Georgia,Serif;
+font-size:18px;	
+}
+
+ul li a
+{
+display:block;
+background-color:white;
+color:#808080;
+height:30px;
+width:150px;
+padding-left:10px;
+}
+ul li a:hover 
+{
+	-moz-transform:(-5deg);
+	-moz-box-shadow:10px 10px 20px 20px #BDB3A7;
+	-webkit-transform:rotate(-5deg);
+	-webkit-box-shadow:10px 10px 20px 20px #BDB3A7;
+	
+	transform:rotate(4deg);
+    box-shadow:10px 10px 20px 20px #BDB3A7;
+    margin-left:10px;		
+}
+
+table td div 
+{
+width:500px;
+height:220px;
+background-color:#808080;
+border:3px solid #999999;
+border-radius:15px 0px 20px 0px ;
+margin:10px;
+padding:15px;
+box-shadow:2px 2px 5px #C0C2C3;
+}
+
+.encabezado
+{
+width:1024px;
+height:100px;
+background-color:#808080;	
+	
+}
+.piedepagina
+{
+width:100%;
+height:100px;
+background-color:#808080;	
+	
+}
